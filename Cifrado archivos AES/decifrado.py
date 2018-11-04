@@ -11,8 +11,8 @@ from utilidadesCripto \
 import lectura_archivo, fragmentador, decifrar, escritura_archivo
 
 
-ARCHIVO_CIFRADO = "resultados/cifrado.doc"
-ARCHIVO_ORIGINAL = "resultados/original.doc"
+ARCHIVO_CIFRADO = "resultados/cifrado.jpg"
+ARCHIVO_ORIGINAL = "resultados/original.jpg"
 
 LLAVE = "This is a key123"
 VECTOR_INICIAL = "This is an IV456"

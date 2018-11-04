@@ -47,7 +47,7 @@ def fragmentador(archivo_en_bytes, tam_fragmento):
     tam_ultimo = len(ultimo_pedazo)
 
     for j in range(tam_fragmento - tam_ultimo):
-      ultimo_pedazo += '\0'
+      ultimo_pedazo += ' '
 
     fragmentos.append(ultimo_pedazo)  
 

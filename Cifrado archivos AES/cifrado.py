@@ -8,8 +8,8 @@
 from utilidadesCripto \
 import lectura_archivo, fragmentador, cifrar, escritura_archivo
 
-ARCHIVO_A_CIFRAR = "word.doc"
-ARCHIVO_CIFRADO = "resultados/cifrado.doc"
+ARCHIVO_A_CIFRAR = "yo.jpg"
+ARCHIVO_CIFRADO = "resultados/cifrado.jpg"
 
 LLAVE = "This is a key123"
 VECTOR_INICIAL = "This is an IV456"
